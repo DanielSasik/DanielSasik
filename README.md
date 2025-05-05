@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielSasik
-- 👀 I’m interested in math and robotics.
-- 🌱 I’m currently learning about path generation for robotic arms.
-- 💞️ I’m looking to collaborate on any projects that help me to learn program because my study program doesn't really allows me to program and learn programming as I would like.
+- 👀 I’m interested in embedded systems and robotics.
+- 🌱 I’m currently learning about ROS and RTOS.
+- 💞️ I’m looking to collaborate on any projects that help me to learn more about robotics and embedded systems.
 - 📫 How to reach me message me
 - ⚡ Fun fact: I have 3 swords and one is broken.
 
